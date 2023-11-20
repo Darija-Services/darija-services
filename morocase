@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morocase Privacy Policy</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Morocase Privacy Policy</h1>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>Welcome to Morocase! This Privacy Policy explains how Morocase collects, uses, and discloses information when you use our mobile application.</p>
+    </section>
+
+    <section>
+        <h2>Data Collection</h2>
+        <p>Morocase does not collect or store any user data. We respect your privacy and do not track your personal information.</p>
+    </section>
+
+    <section>
+        <h2>Third-party Services</h2>
+        <p>Morocase may use third-party services, such as analytics tools, but these services do not collect personally identifiable information from our users.</p>
+    </section>
+
+    <section>
+        <h2>Security</h2>
+        <p>We take reasonable measures to protect your information. However, since we do not collect any user data, there is no personal information at risk of unauthorized access.</p>
+    </section>
+
+    <section>
+        <h2>Changes to this Privacy Policy</h2>
+        <p>We may update our Privacy Policy from time to time. Any changes will be reflected on this page, and we encourage you to review this Privacy Policy periodically.</p>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:contact@morocase.com">contact@morocase.com</a>.</p>
+    </section>
+
+</body>
+
+</html>
